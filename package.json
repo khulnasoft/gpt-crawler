@@ -1,5 +1,5 @@
 {
-  "name": "@builder.io/gpt-crawler",
+  "name": "@khulnasoft.com/gpt-crawler",
   "version": "1.5.0",
   "type": "module",
   "bin": {
